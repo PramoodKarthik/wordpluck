@@ -1,5 +1,5 @@
 body {
-	background: #fff;
+	background: #d17f55;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -7,8 +7,8 @@ body {
 	overflow: hidden;
 
 	font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial;
-	font-size: 16px;
-	color: #444;
+	font-size: 18px;
+	color: #000000;
 }
 
 h1, h2, h3 {
@@ -16,7 +16,7 @@ h1, h2, h3 {
 }
 button {
 	background: #111;
-	color: #fff;
+	color: #ffff00;
 	border: 0;
 	padding: 10px 30px;
 	border-radius: 3px;
@@ -27,8 +27,8 @@ button {
 }
 	.button:hover,
 	button:hover {
-		background: #0000bb;
-		color: #fff;
+		background: #00bbbb;
+		color: #000000;
 	}
 
 a {
